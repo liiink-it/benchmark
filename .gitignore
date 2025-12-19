@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# Config (contains local settings)
+.env
+
+# Data files (too large for git)
+data/*.csv
+data/**/*.csv
+
+# Outputs
+benchmark_outputs/
+benchmark_metrics/
+benchmark_dashboard.html
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

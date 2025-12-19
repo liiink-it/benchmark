@@ -1,0 +1,10 @@
+pandas
+polars
+pyspark==3.5.3
+duckdb
+pyarrow
+requests
+tqdm
+psutil
+plotly
+nbformat
