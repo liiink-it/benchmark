@@ -201,7 +201,7 @@ result = pl.scan_parquet("data.parquet").filter(pl.col("siren") == 123456789).co
 
 ## Article associé
 
-📖 [Benchmark de librairies 2025 : Pourquoi j'ai lâché Pandas pour Polars](https://liiink-it.com/blog/benchmark-libs-2025)
+📖 [Benchmark de librairies 2025 : Pourquoi j'ai lâché Pandas pour Polars](https://liiink-it.com/blog/benchmark-de-bibliotheques-data-2025-pourquoi-j-ai-lache-pandas-pour-polars-le-test-du-csv-de-4-go)
 
 ## Licence
 
